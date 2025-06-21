@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="capa-gamesshop.png" alt="GameShop Sales Insights" width="500"/>
+</p>
+
 # GameShop Sales Insights 🚀
 
 Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de utilizar **ferramentas de Inteligência Artificial** para analisar relatórios de vendas e extrair insights relevantes para a estratégia do negócio.
@@ -36,3 +40,4 @@ Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de ut
 ---
 
 Desenvolvido por [Leonardo Mendes](https://github.com/LeonardoMendesXCIX) 🧠💻
+
